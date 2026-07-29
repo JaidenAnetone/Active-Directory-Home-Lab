@@ -14,5 +14,19 @@ I created separate OUs instead of one flat list because OUs are the level at whi
 **Why a dedicated admin account instead of using regular employee accounts:**
 I created a dedicated admin account separate from my regular employee accounts to reflect the principle of separating privileged access from day-to-day use. In a real environment, if a regular employee's account is compromised (phishing, weak password, etc.), an attacker only gains regular-user access, not admin rights — because admin privileges live on a separate account rather than being attached to someone's everyday login.
 
+## Screenshots
+
+**IT OU users:**
+![IT OU users](../ITOU.png)
+
+**HR OU users:**
+![HR OU users](../HR.png)
+
+**Sales OU users:**
+![Sales OU users](../SALES.png)
+
+**IT-Admins security group membership:**
+![IT-Admins group](../ITADMINS.png)
+
 ## Problems I ran into
 None — this phase went smoothly start to finish.
